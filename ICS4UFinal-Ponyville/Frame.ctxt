@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Frame
+comment0.text=\r\n\ Frame\ that\ displays\ the\ best\ time\ of\ pass.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Frame()
+comment1.text=\r\n\ Initializes\ the\ frame,\ it's\ only\ job\ is\ to\ display\ the\ current\ fastest\ passing\ speed,\ so\ there's\ nothing\ much\ to\ talk\ about.\r\n
+comment2.params=
+comment2.target=void\ removeSelf()
+comment2.text=\r\n\ Removes\ the\ frame.\ However,\ before\ removing,\ it\ should\ also\ remove\ the\ lable\ that\ comes\ with\ it.\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ Adds\ a\ lable\ that\ displays\ text\ when\ added\ to\ world.\r\n\ \r\n\ @param\ w\ This\ will\ be\ teh\ world\ the\ object\ is\ about\ to\ be\ added\r\n
+numComments=4

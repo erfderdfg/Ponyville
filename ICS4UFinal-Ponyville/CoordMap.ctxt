@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CoordMap
+comment0.text=\r\n\ Map,\ contains\ map\ and\ various\ methods\ that\ a\ map\ needs\r\n\ Created\ when\ WarWorld\ is\ created,\ reflects\ map.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=mapId\ xsiz\ ysiz\ xpix\ ypix
+comment1.target=CoordMap(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ The\ constructure\ of\ CoordMap,\ which\ initializes\ the\ CoordMap\ that\ holds\ the\ map.\r\n\ \r\n\ @param\ mapId\ \ \ \ \ The\ id\ of\ the\ map\ (for\ reading\ maps\ from\ file).\r\n\ @param\ xsiz\ \ \ \ \ \ The\ number\ of\ columns\ of\ the\ grid.\r\n\ @param\ ysiz\ \ \ \ \ \ The\ number\ of\ rows\ of\ the\ grid.\r\n\ @param\ xpix\ \ \ \ \ \ The\ number\ of\ pixels\ in\ x\ coordinate\ in\ the\ world.\r\n\ @param\ ypix\ \ \ \ \ \ The\ number\ of\ pixels\ in\ y\ coordinate\ in\ the\ world.\r\n
+comment2.params=
+comment2.target=int[]\ getSz()
+comment2.text=\r\n\ Gets\ the\ size\ of\ each\ grid\ in\ pixels\r\n\ \r\n\ @return\ int[]\ \ \ \ The\ size\ in\ pixels\ of\ each\ grid.\ {x,\ y}\r\n
+comment3.params=in
+comment3.target=Node\ getNode(int[])
+comment3.text=\r\n\ Get\ the\ raw\ Node\ object\ on\ a\ specific\ grid\ position\ in\ the\ grid.\r\n\ \r\n\ @param\ in\ \ \ \ The\ coordinate\ on\ grid\ (not\ pixels\!)\ of\ the\ intended\ node.\ {x,\ y}\r\n\ @return\ Node\ The\ node\ object\ in\ the\ given\ coordinate.\r\n
+comment4.params=coord
+comment4.target=int[]\ getPixes(int[])
+comment4.text=\r\n\ <p>Gets\ the\ corresponding\ pixel\ position\ from\ a\ grid\ coordinate.</p>\r\n\ <p>The\ pixel\ position\ is\ supposed\ to\ be\ right\ in\ the\ middle\ of\ the\ grid.</p>\r\n\ \r\n\ @param\ coord\ \ \ \ \ The\ grid\ coordinate\ inputed.\ {x,\ y}\r\n\ @return\ int[]\ \ \ \ The\ corresponding\ {x,\ y}\ pixel\ value\ of\ the\ center\ of\ the\ grid.\r\n
+comment5.params=coord
+comment5.target=int[]\ getMaps(int[])
+comment5.text=\r\n\ Given\ a\ {x,\ y}\ coordinate\ of\ a\ pixel,\ return\ the\ grid\ position\ which\ this\ pixel\ lays\ on.\r\n\ \r\n\ @param\ coord\ \ \ \ \ The\ pixel\ position\ inputed.\ {x,\ y}\r\n\ @return\ int[]\ \ \ \ The\ corresponding\ grid\ position\ of\ this\ pixel.\ {x,\ y}\r\n
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bullet_Undirected
+comment0.text=\r\n\ Undirected\ bullet\ (goes\ in\ a\ straight\ line\ and\ will\ not\ automatically\ aim\ to\ target)\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=pict\ speed\ facing\ power\ size\ x\ y\ friendly
+comment1.target=Bullet_Undirected(int,\ double,\ int,\ int,\ int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ Bullet_Undirected\ class\r\n\ \r\n\ @param\ pict\ \ Variable\ to\ select\ how\ Bullet_Undirected\ looks.\ 0\ \=\ oval,\ 1\ \=\ redball\r\n\ @param\ speed\ Speed\ of\ bullet\r\n\ @param\ power\ How\ much\ damage\ (in\ hp)\ this\ bullet\ will\ do.\r\n\ @param\ size\ \ The\ physical\ size\ of\ the\ bullet\ in\ pixels\r\n\ @param\ x\ \ \ \ \ The\ x\ position\ of\ the\ bullet\ when\ generated\r\n\ @param\ y\ \ \ \ \ The\ y\ position\ of\ the\ bullet\ when\ generated\r\n\ @param\ friendly\ \ If\ the\ bullet\ is\ friendly.\ true\ \=\ friendly.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ This\ method\ will\ create\ a\ SideWorld\ object\ when\ it\ is\ created\r\n\ \r\n\ @param\ w\ This\ is\ the\ world\ it\ is\ about\ to\ get\ in\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ is\ the\ act\ method\ for\ Undirected_Bullet\r\n
+comment4.params=
+comment4.target=boolean\ isEdge()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ temp()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pony
+comment0.text=\r\n\ The\ pony\ icon\ at\ normal\ (non-boss)\ battles.\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 1.0\r\n
+comment1.params=image
+comment1.target=Pony(greenfoot.GreenfootImage)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ the\ Pony\ class\r\n\ \r\n\ @param\ image\ This\ is\ the\ image\ of\ the\ pony\ icon\r\n
+numComments=2

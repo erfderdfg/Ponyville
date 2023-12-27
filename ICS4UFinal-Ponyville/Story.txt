@@ -1,0 +1,255 @@
+Start,BrightMac,X
+enemy,S,0,X,Wake up at 4 AM, load up all the apples at 5 AM, go to the market at 6 AM; return home at 11 PM, then check all the apples, go to sleep at 1 AM...
+horse,T,1,X,What kind of schedule is that!
+horse,F,1,X,You need to go to the bar to relax.
+horse,T,1,X,You must be so tired!
+horse,F,1,X,Can I have some free apples?
+enemy,T,1,X,Yea, I’m VERY tired… But I love my fiancée and I want to give her the best wedding in Ponyville, so I need a lot of money to do that. I MUST work hard.
+enemy,F,1,X,No thank you, I love my wife.
+enemy,T,1,X,Yea, I’m VERY tired… But I love my fiancée and I want to give her the best wedding in Ponyville, so I need a lot of money to do that. I MUST work hard.
+enemy,F,1,X,...Sure, but not now.
+horse,T,2,X,Marriage should be something that both of you contribute to right?
+horse,F,2,X,Maybe your wife just likes your money.
+horse,F,2,X,To be or not to be, that’s a question.
+horse,F,2,X,Ah, I still want an apple please.
+enemy,T,2,X,I don’t want her to worry about money and stuff, I just want her to be happy and enjoy the days with me.
+enemy,F,2,X,We are together because of true love!!
+enemy,F,2,X,......
+enemy,F,2,X,...Here’s an apple, good bye.
+horse,T,3,X,Maybe… money isn’t the actual thing she wants.
+horse,T,3,X,I think you should have a conversation with her.
+horse,F,3,X,Get some french fries buddy.
+horse,F,3,X,Poor you, poor you.
+enemy,T,3,X,I should… I should… She once said that she likes me when I’m talkative, but with all the work I have to do nowadays, it’s been long since the last time we sat and spoke about our life and future and stuff…
+enemy,T,3,X,I should… I should… She once said that she likes me when I’m talkative, but with all the work I have to do nowadays, it’s been long since the last time we sat and spoke about our life and future and stuff…
+enemy,F,3,X,......
+enemy,F,3,X,......
+End,BrightMac,X
+
+Start,PearButter,X
+enemy,S,0,X,Both of us have been working this crazy schedule and haven't talked to each other for a week. I know he wants to give me a luxury wedding, but if it means trading that for him being a workaholic, I would rather not!
+horse,F,1,X,Girl, just be happy.
+horse,F,1,X,Let’s go to the bar then!
+horse,T,1,X,You guys need to have a discussion.
+horse,F,1,X,What’s the card number? I will check how much money he has.
+enemy,F,1,X,I can’t stop thinking about this...
+enemy,F,1,X,You can go yourself, I’m good.
+enemy,T,1,X,I know that communication is the most important thing, but I don’t know how to start it. I can’t blame him for working hard for our future, it’s just I’m also working and I can help too.
+enemy,F,1,X,......
+horse,F,2,X,Does the apple sauce taste good?
+horse,F,2,X,I used to walk my dog in Berczy Park.
+horse,T,2,X,You should let him know then.
+horse,T,2,X,You guys need to be on the same page, that is more important than anything.
+enemy,F,2,X,...yea.
+enemy,F,2,X,Good for you...
+enemy,T,2,X,I probably should… it’s very hard for me to say it but… I guess I will try my best.
+enemy,T,2,X,I probably should… it’s very hard for me to say it but… I guess I will try my best.
+End,PearButter,X
+
+Start,GrannySmith,X
+enemy,S,0,X,Oh my son, my daughter, my grandson and my granddaughter, my niece and nephew… I want them all to have good, great, and amazing lives, but I’m getting too old...
+horse,F,1,X,You have such a big family.
+horse,F,1,X,How old are you?
+horse,T,1,X,So how do you want to help your kids?
+horse,F,1,X,K, cool grandma.
+enemy,F,1,X,Oh yea I of course do...
+enemy,F,1,X,That’s very unpleasant to ask...
+enemy,T,1,X,I teach my son and daughter how to farm apples and how to sell them at a good price, I teach them how to be a good pony and how to make new friends. I also let my niece and nephew know how to be a good student in school… There’s a lot of things.
+enemy,F,1,X,Cool child.
+horse,T,2,X,But that’s their lives right?
+horse,F,2,X,You wanna teach me how to farm apples?
+horse,T,2,X,Every pony has their own life to live...
+horse,F,2,X,To be or not to be, that’s a question.
+enemy,T,2,X,Oh kid you are definitely right, and I’m trying my best to not interfere with any of them, but I just can’t stop thinking and worrying… Anyway, it’s a great time talking with you, I will keep in mind, I will always keep in mind…
+enemy,F,2,X,Oh yea sure, just come to Apple Farm every Saturday.
+enemy,T,2,X,Oh kid you are definitely right, and I’m trying my best to not interfere with any of them, but I just can’t stop thinking and worrying… Anyway, it’s a great time talking with you, I will keep in mind, I will always keep in mind…
+enemy,F,2,X,That’s a good question...
+End,GrannySmith,X
+
+Start,Scootaloo,X
+enemy,S,0,X,I thought he loves me, but he only loves my money...
+horse,F,1,X,Oh, you rich? Can you buy me bubble tea?
+horse,T,1,X,Tell me what happened.
+horse,F,1,X,WooOOoOo~ He is good-looking?
+horse,F,1,X,Damn, you such a troll lol.
+enemy,F,1,X,What? I will not buy you bubble tea.
+enemy,T,1,X,I met my ex-boyfriend online, he asked me to buy flowers for him. I thought it was because he wants to know that I love him, so I did for a month. But one day his friends told me that he just wanted the flowers so he could give them to his "actual" girlfriend!
+enemy,F,1,X,He is not worth talking about.
+enemy,F,1,X,......
+horse,F,2,X,Oh no, that's sad, RIP.
+horse,T,2,X,You can't fall in love with someone you've only met online.
+horse,T,2,X,You need to be very cautious on the internet.
+horse,F,2,X,I'm literally rolling on the floor laughing right now.
+enemy,F,2,X,Oh yea yea I know I know, sad story
+enemy,T,2,X,That's right... I will not do that anymore, I will not trust anyone if I’ve only met them online.
+enemy,T,2,X,That's right... I will not do that anymore, I will not trust anyone if I’ve only met them online.
+enemy,F,2,X,I don’t want to talk to you!
+End,Scootaloo,X
+
+Start,SweetieBelle,X
+enemy,S,0,X,No one likes me, no one is following me on YouTube… I’m such a disappointing pony in Ponyville…
+horse,F,1,X,Damn bro, who uses YouTube, try Instagram!
+horse,F,1,X,Do you know PewPonyPie??? I love his videos!!
+horse,T,1,X,Well, how about your life in the real world?
+horse,F,1,X,Poor you, I got 75k followers just for 2 videos.
+enemy,F,1,X,It will just be the same thing, no one will like me!!
+enemy,F,1,X,Yeah, and I can never be that successful.
+enemy,T,1,X,I used to be playing with my sister all day long, we love playing dress up games. Also my friend Scootaloo, we used to have a secret club, our club members tutor other pony math problems. But I’ve been disconnected for such a long time! I have to run my social media accounts…
+enemy,F,1,X,...Good for you I guess
+horse,T,2,X,You know, the internet isn’t the only place where you can find love.
+horse,F,2,X,Oh math tutor? What’s 3674325 × 928338 then?
+horse,F,2,X,Is your sister the artist Rarity?? I love her so much!!
+horse,T,2,X,You are surrounded with love and support in real life!
+enemy,T,2,X,Well, that’s sort of right, I wasn’t aware of that before… Almost everyone in my class has social media accounts and I also want to try it out. I thought I could get a lot of followers online too, but then… Also, it’s been a week that I haven’t contacted my sister… I guess it is better for me to focus more on real life connections.
+enemy,F,2,X,...13,500,664,205,625
+enemy,F,2,X,Oh yea, everyone is loved except me.
+enemy,T,2,X,Well, I wasn’t aware of that before… Almost everyone in my class has social media accounts and I also want to try it out. I thought I could get a lot of followers online too, but then… Also, it’s been a week that I haven’t contacted my sister… I guess it is better for me to focus more on real life connections…
+End,Belle,X
+
+Start,AppleBloom,X
+enemy,S,0,X,Oneechan!!! Awwww, I just want to die with Oneechan~~ She loves me so much!
+horse,T,1,X,Who’s Oneechan?
+horse,F,1,X,Girl you okay?
+horse,F,1,X,Egh......
+horse,F,1,X,To be or not to be, that’s a question.
+enemy,T,1,X,OMG, Oneechan is my girlfriend!! She is so cuteeeeee!!! She has shiny long black hair, glorious blue eyes, and she is kind, she also lets me pet her…Oh oh do you want to see her, here she is!! (Shows a picture of Oneechan, she is a digital girl.)
+enemy,F,1,X,Oh yes yes of course, I’m even beyond ok~~~
+enemy,F,1,X,Oneechan~~~
+enemy,F,1,X,Oh what?
+horse,F,2,X,Damn bro, you crazy!
+horse,F,2,X,Hold up, what??
+horse,F,2,X,Are you sure Oneechan wants to be your girlfriend?
+horse,T,2,X,How do you know she loves you if you never met her?
+enemy,F,2,X,Hey! What do you mean?!!
+enemy,F,2,X,She is so cute right!!!
+enemy,F,2,X,She can’t talk… But she sure likes me!!!
+enemy,T,2,X,I... I just know!! And I know clearly that I love her!!!
+horse,F,3,X,No, I just asked her, she said she doesn’t like you.
+horse,T,3,X,Girl, you need to know what’s fake and what’s real.
+horse,T,3,X,“The Internet is a great place, but you can’t download love.”
+horse,F,3,X,Oneechan already has a boyfriend, his name is Oniichan.
+enemy,F,3,X,NOOOOOOOOO!!! You are lying!!!
+enemy,T,3,X,I... But the fake world is way too attractive… I can’t resist it.
+enemy,T,3,X,I can! I’m basically with her! I know that she is the one that will always be there!! No one will do that in the real world… I can’t live without her now…
+enemy,F,3,X,NOOOOOOOOO!!! You are lying!!!
+End,AppleBloom,X
+
+Start,Palette,X
+enemy,S,0,X,It’s all over!! I’m an artist and now I’ve lost all my creativity, all my drawings are now just…lifeless.
+horse,F,1,X,Oh no! I think you need a pizza.
+horse,T,1,X,You remember why you want to be an artist?
+horse,F,1,X,We should go to the bar together.
+horse,T,1,X,Where do your inspirations usually come from?
+enemy,F,1,X,No! I do not want pizza!
+enemy,T,1,X,I want to be an artist… because I want to share the beautiful scenes I see with my grandpa, who lost his legs during World War II, and not only him, but all the other ponies too. I love seeing the smiling faces that my art brings to them.
+enemy,F,1,X,…I hate that place so much, I’m leaving
+enemy,T,1,X,I want to be an artist… because I want to share the beautiful scenes I see with my grandpa, who lost his legs during World War II, and not only him, but all the other ponies too. I love seeing the smiling faces that my art brings to them.
+horse,T,2,X,Why don’t you go visit your grandpa?
+horse,T,2,X,I think talking with your grandpa will help you!
+horse,T,2,X,That’s amazing! You are motivated when you see those smiling faces!
+horse,F,2,X,I have an 80% off pizza coupon.
+enemy,T,2,X,Yeah… You are probably right, it’s been a long time since the last time I visited him. He always motivates me. I should go visit him right now, thank you…
+enemy,T,2,X,Yeah… You are probably right, it’s been a long time since the last time I visited him. He always motivates me. I should go visit him right now, thank you…
+enemy,T,2,X,It could be that I will get inspired by those lovely ponies, if not, it’s great visiting them anyways. Okay, I will go catch the bus now, thank you…
+enemy,F,2,X,...I’m good.
+End,Palette,X
+
+Start,Trixie,X
+enemy,S,0,X,I’m a psychiatrist, people talk to me about the nightmares they have, but I feel so sad about all the stories I hear, and I’m getting scary nightmares too…
+horse,T,1,X,That’s an amazing job! But your job shouldn’t affect your life.
+horse,F,1,X,Do you want to build a snowman?
+horse,T,1,X,You should find a work-life balance.
+horse,F,1,X,Oh lala!!! You wanna go get fooood?
+enemy,T,1,X,Yeah I know, but I just can’t control myself from thinking like that! All the nightmares are surrounding and chasing me all the time, I don’t know how to tell them to go away…
+enemy,F,1,X,(speechless)
+enemy,T,1,X,Yeah I know, but I just can’t control myself from thinking like that! All the nightmares are surrounding and chasing me all the time, I don’t know how to tell them to go away…
+enemy,F,1,X,…No thank you, I’m good.
+horse,T,2,X,Talk things out is the first step of solving a problem.
+horse,T,2,X,Take a break! And take good care of yourself~
+horse,F,2,X,You should drink some coffee.
+horse,F,2,X,I know! Just don’t go to sleep!
+enemy,T,2,X,I always tell ponies to talk with someone when you are upset, because talking about it might sometimes prompt the solution of your problem. I should probably do that too, I will go talk with my friends, it might be helpful...
+enemy,T,2,X,I always tell ponies to talk with someone when you are upset, because talking about it might sometimes prompt the solution of your problem. I should probably do that too, I will go talk with my friends, it might be helpful...
+enemy,F,2,X,Sure, but I’m allergic to coffee, sorry.
+enemy,F,2,X,That sounds like a “GOOD” plan eh
+End,Trixie,X
+
+Start,LusterDawn,X
+enemy,S,0,X,I failed my test! I only get a 98%, I want 100!! I’m such an idiot!!
+horse,F,1,X,Um, are you not flexing…
+horse,T,1,X,Mistakes always happen, don't be mad at yourself.
+horse,F,1,X,OMG, I’m an idiot too!!
+horse,F,1,X,Yo girl, just drink alcohol and you will be fine.
+enemy,F,1,X,NO, I'm NOT!!
+enemy,T,1,X,I know, I know!! But I just can't get over it!!
+enemy,F,1,X,...I don’t talk to idiots.
+enemy,F,1,X,I'm 16! Excuse me!
+horse,T,2,X,Don’t just focus on the 2%, focus on your accomplishments, a 98!!
+horse,T,2,X,Let's turn that anger into motivation to perform well next time!
+horse,F,2,X,You should really drink some alcohol.
+horse,F,2,X,Chill, chill, chill girl.
+enemy,T,2,X,Phew, alright, that makes it better; but next time, I WILL be the one who gets the 100!!!
+enemy,T,2,X,Phew, alright, that makes it better; but next time, I WILL be the one who gets the 100!!!
+enemy,F,2,X,I AM 16! Excuse me!
+enemy,F,2,X,I can't chill, goodbye!
+End,LusterDawn,X
+
+Start,FlutterShy,X
+enemy,S,0,X,I always wanted to be kind to my friends, but I'm too shy and too scared that I don't truly express what I want to say. I feel like they are always disappointed at me...
+horse,T,1,X,No, no, I even heard your friends talking good things about you!
+horse,F,1,X,Yea yea yea it's ok, not a big deal.
+horse,F,1,X,You wanna get a drink?
+horse,T,1,X,We are all flawless, it's the flaws that make you guys friends!
+enemy,T,1,X,...really? I hope that's what they really think...
+enemy,F,1,X,It is really is a big deal, I want to be with my friends.
+enemy,F,1,X,No thank you.
+enemy,T,1,X,...really? I hope that's what they really think...
+horse,T,2,X,Yea! Of course! You need to be confident in you and your friends!
+horse,F,2,X,You lame, just go ask them!!
+horse,T,2,X,It's our flaws that make us who we are, and friends are there to help you overcome it!
+horse,F,2,X,Just switch a friend group then.
+enemy,T,2,X,Ok...Phew...I will ask AppleJack out for an afternoon tea to celebrate harvest then!
+enemy,F,2,X,......
+enemy,T,2,X,Ok...Phew...I will ask AppleJack out for an afternoon tea to celebrate harvest then!
+enemy,F,2,X,I don't want to lose my friends...
+End,FlutterSHy,X
+
+Start,PinkiePie,X
+enemy,S,0,X,I screwed up the party! I thought Rainbow Dash loved my pies!!! But I just found out she never actually ate any of them and SHE DOESN'T EVEN LIKE PIES!!! I'm so upset...
+horse,F,1,X,Oh, I like pies, can I have some?
+horse,F,1,X,I'm sure you are bad at baking then.
+horse,T,1,X,Have you ever asked her why she doesn't like pies?
+horse,T,1,X,Maybe she has other reasons?
+enemy,F,1,X,NO!! Those are only for my friend Rainbow Dash!!
+enemy,F,1,X,Of course not! All the ponies love my pies!!
+enemy,T,1,X,Yea...I just went back from asking, she said high calories food is not recommended before flying.
+enemy,T,1,X,Yea...I just went back from asking, she said high calories food is not recommended before flying.
+horse,T,2,X,See! She doesn't want to hurt your feelings so she pretended she likes pies!
+horse,F,2,X,She knows how to fly?!! Teach me!!
+horse,F,2,X,Nah, it's just an excuse, she's lying.
+horse,F,2,X,Next time just force her to eat the pies in front of you then.
+enemy,T,2,X,Yea that might be the case, then she should just tell me!! Anyways, I feel better now, and I will be the first pony who bakes low calories pie!!!
+enemy,F,2,X,We are solving a serious issue here!
+enemy,F,2,X,Best Friend Never Lies!!!
+enemy,F,2,X,I don't want to hurt her! I just want her to try out my pies!
+End,PinkiePie,X
+
+Start,TwilightSparkle,X
+enemy,S,0,X,My friends are all gone, I'm such a bad pony...I can't even protect my friends... What's the point of having me here!
+horse,T,1,X,It's not your fault! It's because the Evil Spirit!
+horse,F,1,X,Let's go get some Bubble Tea.
+horse,F,1,X,To be or not to be, that's a question.
+horse,T,1,X,You did what you could, and that's all what you have to do.
+enemy,T,1,X,But I'm part of the Elements of Harmony. Because of my inability, now the entire Ponyville must suffer...
+enemy,F,1,X,I'm good...
+enemy,F,1,X,It is indeed a question.
+enemy,T,1,X,But I'm part of the Elements of Harmony. Because of my inability, now the entire Ponyville must suffer...
+horse,F,2,X,You such irresponsible!
+horse,F,2,X,Just go get bubble tea, then you will just forget about this.
+horse,T,2,X,That's why I'm here! You did your best, and now it's my time to shine!
+horse,T,2,X,I'm Flurry Heart, and I will take up the responsibility of defeating darkness!
+enemy,F,2,X,......
+enemy,F,2,X,......
+enemy,T,2,X,Oh my dear princess! Moving on you have to face the Discord of Darkness, it is very cunning yet powerful. But I have faith in you, good luck! By the way... when fighting that creature, don't hesitate to use "z" key to fire at it!
+enemy,T,2,X,Oh my dear princess! Moving on you have to face the Discord of Darkness, it is very cunning yet powerful. But I have faith in you, good luck! By the way... when fighting that creature, don't hesitate to use "z" key to fire at it!
+End,TwilightSparkle,X

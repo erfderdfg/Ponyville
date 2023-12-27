@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BattleBox
+comment0.text=\r\n\ The\ box\ that\ displays\ the\ boundary\ of\ player's\ movement.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=BattleBox()
+comment1.text=\r\n\ <p>Initializes\ the\ image\ of\ the\ battle\ box.</p>\r\n\ <p>This\ box\ is\ just\ an\ indicator\ so\ it\ should\ do\ nothing\ other\ than\ being\ a\ picture.</p>\r\n
+numComments=2

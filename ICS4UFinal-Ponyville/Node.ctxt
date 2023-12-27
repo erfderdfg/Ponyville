@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Node,\ the\ building\ block\ of\ map\r\n\ \r\n\ @author\ Xuanxi\ Jiang\ &\ George\ (refactor)\r\n\ @version\ 1.0\r\n
+comment1.params=type
+comment1.target=Node(int)
+comment1.text=\r\n\ Simple\ constructor\ for\ a\ node\ that\ initializes\ node\ with\ a\ type.\r\n\ \r\n\ @param\ type\ \ The\ type\ of\ this\ node.\r\n
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\r\n\ Returns\ the\ type\ which\ current\ node\ represents\r\n\ <ul>0\ \ \ -\ clear</ul>\r\n\ <ul>1\ \ \ -\ main\ character\ spawn\ point</ul>\r\n\ <ul>2\ \ \ -\ blocked</ul>\r\n\ <ul>3+n\ -\ item,\ numbered\ starting\ from\ n\=0\ (if\ 3\ ->\ item\ 0,\ etc.)</ul>\r\n\ \r\n\ @return\ int\ \ The\ type\ that\ current\ node\ represents.\r\n
+comment3.params=type
+comment3.target=void\ setType(int)
+comment3.text=\r\n\ Sets\ the\ type\ of\ current\ node\ to\ another\ type\r\n\ \r\n\ @param\ type\ \ The\ updated\ type\ of\ current\ node\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProgressBar
+comment0.text=\r\n\ HP/MP\ bar\ for\ player\r\n\ \r\n\ @author\ Yawen\r\n\ @version\ 20230606\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Update\ progress\ bar\ according\ to\ HP\ and\ MP\ stored\ in\ Statics.\r\n
+comment2.params=select
+comment2.target=ProgressBar(int)
+comment2.text=\r\n\ Constructor\ of\ the\ progress\ bar,\ essentially\ selecting\ a\ desired\ color\ theme\ accoridng\ to\ select.\r\n\ \r\n\ @param\ select\ \ \ \ The\ selection\ of\ type.\ 0\ \=\ displays\ player's\ HP;\ 1\ \=\ displays\ player's\ MP.\r\n
+numComments=3

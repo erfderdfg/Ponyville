@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LightRay
+comment0.text=\r\n\ The\ laser\ class\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction\ width\ warnTime\ duration
+comment1.target=LightRay(int,\ int,\ int,\ int)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ the\ LigthRay\ class\r\n\ \r\n\ @param\ direction\ This\ will\ determine\ the\ direction\ the\ light\ ray\ will\ point\ to\r\n\ @param\ width\ This\ will\ determine\ the\ width\ of\ the\ light\ ray\r\n\ @param\ warnTime\ This\ will\ dtermine\ the\ about\ of\ warn\ time\ before\ actual\ shoot,\ unit\ in\ acts\r\n\ @param\ duration\ This\ will\ determine\ the\ duration\ of\ the\ light\ ray\r\n
+comment2.params=
+comment2.target=void\ stopped()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=w
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment4.text=\r\n\ This\ will\ set\ the\ start\ to\ true\r\n\ \r\n\ @param\ w\ This\ is\ the\ world\ the\ object\ is\ about\ to\ enter\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ This\ is\ the\ act\ method\ of\ the\ LightRay\ class\r\n
+comment6.params=
+comment6.target=void\ warnIt()
+comment7.params=
+comment7.target=void\ damageThem()
+comment8.params=
+comment8.target=void\ remove()
+numComments=9

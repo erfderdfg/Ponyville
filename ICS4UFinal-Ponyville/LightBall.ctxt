@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LightBall
+comment0.text=\r\n\ Essentially\ Bullet_Undirected\ implemted\ another\ way.\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 1.0\r\n
+comment1.params=side\ direction
+comment1.target=LightBall(boolean,\ int)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ LightBall\ class\r\n\ \r\n\ @param\ side\ This\ will\ determine\ the\ side\ the\ light\ ball\ is\ on,\ true\ means\ on\ main\ character,\ false\ means\ enemy\r\n\ @param\ direction\ This\ will\ determine\ the\ direction\ of\ the\ light\ ball\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ of\ LightBall\ class\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ This\ will\ create\ a\ SideWorld\ object\ when\ the\ object\ is\ created\r\n\ \r\n\ @param\ w\ This\ is\ the\ world\ the\ object\ is\ about\ to\ enter\r\n
+comment4.params=
+comment4.target=boolean\ getSide()
+comment4.text=\r\n\ This\ method\ will\ return\ the\ side\ of\ current\ light\ ball\r\n\ \r\n\ @return\ boolean\ This\ boolean\ will\ determine\ the\ side\ light\ ball\ is\ on,\ true\ means\ on\ main\ character\ side\ and\ false\ means\ on\ enemy\ side\r\n
+comment5.params=
+comment5.target=void\ damage()
+numComments=6

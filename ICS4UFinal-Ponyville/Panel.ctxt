@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Panel
+comment0.text=\r\n\ The\ top\ panel\ that\ displays\ stats.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Top\ panel\ that\ displays\ the\ status\ of\ the\ player\ in\ MainWorld.\ Includes\:\ HP\ remaining,\ MP\ remaining,\ number\ of\ orbs\ that\ needs\ to\ be\ collected.\r\n\ \r\n\ @param\ w\ \ \ \ \ The\ world\ in\ which\ the\ object\ is\ going\ to\ be\ added\ to.\r\n
+comment2.params=
+comment2.target=void\ refresh()
+comment2.text=\r\n\ Refresh\ the\ number\ of\ orbs.\r\n
+numComments=3

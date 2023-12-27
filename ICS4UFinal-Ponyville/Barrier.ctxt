@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Barrier
+comment0.text=\r\n\ Barrier\ that\ blocks\ both\ player\ and\ chaser.\r\n\ This\ is\ literally\ just\ a\ picture.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Perform\ initialization\ when\ added\ to\ world\ because\ it\ needs\ the\ map\ object.\ The\ barrier\ is\ just\ supposed\ to\ be\ a\ placeholder\ so\ there\ isn't\ much\ to\ talk\ about.\r\n\ \r\n\ @param\ w\ \ \ \ \ The\ world\ in\ which\ the\ object\ is\ going\ to\ be\ added\ to.\r\n
+comment2.params=
+comment2.target=void\ decideLook()
+comment2.text=\r\n\ Decides\ the\ look\ of\ barrier\ according\ to\ current\ level.\r\n
+numComments=3

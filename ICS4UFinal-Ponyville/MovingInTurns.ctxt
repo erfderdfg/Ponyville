@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MovingInTurns
+comment0.text=\r\n\ For\ things\ that\ moves\ in\ turns\ (only\ moves\ when\ player\ moves).\r\n\ Some\ common\ methods\ are\ displayed\ here.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ is\ the\ act\ method\ of\ MovingInTurns\ class\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Moving\ the\ object\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Displaying\ animation\ or\ anything\ similar\ of\ the\ object.\r\n
+comment4.params=gridPos
+comment4.target=void\ shift(int[])
+comment4.text=\r\n\ Animation\ that\ moves\ the\ character\ towards\ the\ target\ grid\ (so\ the\ character\ does\ not\ appear\ to\ be\ "teleported"\ to\ grids.\r\n\ \r\n\ @param\ gridPos\ \ \ The\ current\ position\ of\ character\ on\ grid\ {x,\ y}\r\n
+comment5.params=gridPos
+comment5.target=void\ rsetPos(int[])
+comment5.text=\r\n\ Set\ the\ position\ of\ character\ on\ grid\ to\ the\ target\ grid.\r\n\ Used\ by\ shift()\ method\ when\ the\ target\ position\ (animation)\ is\ reached\ or\ exceeded.\r\n
+numComments=6

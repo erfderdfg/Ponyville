@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MainCh
+comment0.text=\r\n\ Your\ main\ character\ in\ the\ maze.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MainCh()
+comment1.text=\r\n\ Initializes\ the\ main\ character\ in\ the\ MainWorld.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Executes\ various\ initialization\ steps\ when\ added\ to\ world,\ since\ the\ map\ object\ is\ stored\ in\ the\ world\ and\ not\ as\ static.\r\n\ \r\n\ @param\ w\ \ \ \ \ The\ world\ in\ which\ the\ character\ is\ added\ to.\r\n
+comment3.params=
+comment3.target=boolean\ isMoving()
+comment3.text=\r\n\ Detect\ if\ the\ character\ is\ currently\ moving\r\n\ \r\n\ @return\ boolean\ \ If\ character\ is\ currently\ moving\r\n
+comment4.params=
+comment4.target=void\ display()
+comment4.text=\r\n\ Displays\ the\ animation\ of\ character\r\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ Method\ for\ all\ the\ character's\ behaviors,\ including\:\r\n\ pressing\ "alt"\ to\ use\ magic\r\n\ pressing\ "w",\ "a",\ "s",\ "d"\ to\ move\ around\r\n\ and\ animation\ of\ moving\ towards\ another\ grid.\r\n
+comment6.params=
+comment6.target=int\ getMagic()
+comment6.text=\r\n\ Gets\ the\ "magic"\ value\ of\ player,\ since\ the\ use\ of\ magic\ is\ an\ animation,\ magic\ is\ an\ int.\r\n\ \r\n\ @return\ int\ \ \ \ \ \ returns\ the\ magic\ value\ of\ player,\ 100\ is\ considered\ "fully\ active".\r\n
+comment7.params=gridPos
+comment7.target=boolean\ detect(int[])
+comment7.text=\r\n\ Detect\ user\ input\ and\ move\ character's\ real\ position\ based\ on\ that.\r\n\ Animation\ is\ implemented\ in\ shift()\ method.\r\n\ \r\n\ @param\ gridPos\ \ \ The\ current\ position\ of\ character\ on\ grid\ {x,\ y}\r\n\ @return\ boolean\ \ If\ the\ user\ have\ moved\ the\ character.\r\n
+numComments=8

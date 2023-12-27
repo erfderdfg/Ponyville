@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FloatingPanel
+comment0.text=\r\n\ A\ panel\ that\ hints\ the\ user\ to\ perform\ actions\ (either\ display\ z)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (or\ need\ more\ orbs)\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=plC\ sel
+comment1.target=FloatingPanel(int[],\ int)
+comment1.text=\r\n\ Constructing\ a\ floating\ panel\ according\ to\ player\ coordinate\ and\ word\ choise.\r\n\ \r\n\ @param\ plC\ \ \ The\ current\ coordinate\ of\ player.\ Once\ the\ player\ leaves,\ the\ floatingPanel\ will\ delete\ itself.\r\n\ @param\ sel\ \ \ The\ thing\ that\ this\ floatingPanel\ will\ display.\ 2\ \=\ need\ more\ orb,\ 1\ \=\ press\ z.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ floatingPanel\ does\ only\ one\ thing\:\ fades\ in\ when\ created,\ fades\ out\ when\ deleating.\r\n
+numComments=3

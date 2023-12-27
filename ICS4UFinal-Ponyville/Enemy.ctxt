@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ This\ is\ the\ enemy\ class,\ it\ is\ the\ superclass\ for\ all\ the\ enemy\ objects\r\n\ \r\n\ @author\ George\ Liu\r\n\ @version\ 1.0\r\n
+comment1.params=x
+comment1.target=void\ damage(int)
+comment1.text=\r\n\ This\ is\ the\ method\ will\ decrease\ the\ enemy's\ hp\ according\ to\ the\ damage\ being\ input\r\n\ \r\n\ @param\ x\ This\ is\ the\ damage\ value\r\n
+numComments=2

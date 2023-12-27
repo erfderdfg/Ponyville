@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Generate
+comment0.text=\r\n\ Thing\ that\ generates\ bullets\ and\ lasers\ (used\ as\ Twilight's\ first\ attack)\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=activeCnt
+comment1.target=Generate(int)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ Generate\ class\r\n\ \r\n\ @param\ activeCnt\ Number\ of\ acts\ that\ the\ generator\ will\ follow\ the\ player\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ the\ act\ method\ of\ the\ Generate\ class\r\n
+numComments=3

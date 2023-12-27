@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Screen
+comment0.text=\r\n\ This\ is\ the\ super\ class\ for\ screen\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Screen()
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ screen\ class\r\n
+numComments=2

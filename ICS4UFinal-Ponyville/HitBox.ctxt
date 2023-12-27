@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HitBox
+comment0.text=\r\n\ Player's\ hit\ box\ at\ battle\ screen.\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 2023/6/1\ \r\n
+comment1.params=final1
+comment1.target=HitBox(boolean)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ the\ HitBox\ class\r\n\ \r\n\ @param\ final1\ This\ boolean\ will\ determine\ whether\ the\ hitBox\ can\ shoot\ or\ not\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ the\ act\ method\ of\ HitBox\ class\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ This\ method\ will\ create\ a\ SideWorld\ object\ and\ make\ the\ start\ boolean\ true\r\n\ \r\n\ @param\ w\ This\ is\ the\ world\ the\ object\ is\ about\ to\ be\ add\ in\r\n
+comment4.params=x\ y
+comment4.target=boolean\ chk(int,\ int)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=void\ shoot()
+comment7.params=
+comment7.target=void\ dead()
+comment8.params=
+comment8.target=void\ success()
+numComments=9

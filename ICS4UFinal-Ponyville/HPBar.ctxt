@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HPBar
+comment0.text=\r\n\ HP\ Bar\ of\ either\ player\ or\ boss\ at\ battle\ screen.\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 1.0\r\n
+comment1.params=side
+comment1.target=HPBar(boolean)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ HPBar\ class\r\n\ \r\n\ @param\ side\ This\ boolean\ will\ determine\ which\ one\ HPBar\ will\ show\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ This\ method\ will\ intialize\ the\ HPBar\ object\r\n\ \r\n\ @param\ w\ This\ will\ be\ the\ world\ the\ HPBar\ about\ to\ be\ added\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ is\ the\ act\ method\ of\ HPBar\r\n
+comment4.params=
+comment4.target=void\ hp()
+numComments=5

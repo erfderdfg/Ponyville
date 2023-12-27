@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=StartWorld
+comment0.text=\r\n\ <p>The\ starting\ world\ of\ this\ game.\ Introduces\ the\ background\ story\ and\ instruction\ on\ how\ to\ play.\r\n\ <h1>Game\ Instruction</h1>\r\n\ <p>***\ Must\ new\ StartWorld()\ every\ time\ before\ playing\ ***</p>\r\n\ <h3>1.\ For\ MainWorld\ (Map\ Maze)\:</h3>\r\n\ <p><strong>\u2191\u2193\u2190\u2192</strong>\ to\ move\ in\ the\ map.\r\n\ <strong>'z'</strong>\ to\ allure\ the\ chaser\ to\ come\ closer.\r\n\ <strong>alt</strong>\ to\ illuminate\ magic\ to\ kill\ chasers.\r\n\ <p>When\ in\ contact\ with\ Ponies\ or\ Portal,\ press\ 'z'\ to\ proceed.\r\n\ <p>Goal\:\ find\ all\ Ponies\ to\ collect\ all\ 3\ orbs\ (you\ get\ them\ after\ saving\ the\ Ponies),\ to\ get\ to\ next\ level.\r\n\ <p>***\ If\ can't\ find\ the\ Ponies,\ in\ ShaderBox\ class,\ comment\ //this.setImage(blk);\r\n\ <h3>2.\ For\ SideWorld\ (Level\ Boss\ Conversation)\:</h3>\r\n\ <p>The\ ponies\ will\ say\ something,\ Flurry\ Heart\ replies\ by\ selecting\ choice\ <strong>A,\ B,\ C,\ D</strong>.\r\n\ <p>Conversation\ proceeds\ if\ Flurry\ Heart\ replied\ the\ correct\ thing.\r\n\ <p>Press\ the\ continue\ <strong>button\ (\u2192)</strong>\ to\ check\ answer,\ continue\ to\ next\ dialogue\ and\ exit\ world.\r\n\ <p>Goal\:\ help\ the\ ponies\ to\ figure\ out\ life\ issues.\r\n\ <h3>3.\ For\ SideWorld\ (Level\ Final\ Boss\ Conversation+Battle)\:</h3>\r\n\ <p>Flurry\ Heart\ needs\ to\ dodge\ the\ attacks\ from\ the\ ponies,\ and\ then\ solve\ their\ life\ issues.\r\n\ <p>Attacks\ &\ Conversation\ takes\ turn\ to\ happen.\r\n\ <p>Goal\:\ survive\ &\ help\ the\ ponies\ to\ figure\ out\ life\ issues.\r\n\ <h3>4.\ For\ SideWorld\ (Final\ Boss\ Battle)\:</h3>\r\n\ <p>Dodge\ attacks\ from\ the\ Boss.\r\n\ <p><strong>Press\ 'z'</strong>\ to\ attack\ the\ Boss.\r\n\ <p>Goal\:\ survive\ &\ kill\ the\ Boss.\r\n\ \r\n\ <h1>Background\ Music\ Citations\:</h1>\r\n\ <ul>Beginning\:\ Prisoner\ to\ a\ Formula\ (Pokemon)</ul>\r\n\ <ul>1st\ map\ -\ Nectar\ Meadow\ (Pokemon\ SMD\ Music\ 037)</ul>\r\n\ <ul>2nd\ map\ -\ Vast\ Poni\ Canyon\ -\ Sun/Moon\ Disc\ 3\ Music\ 37</ul>\r\n\ <ul>3rd\ map\ -\ The\ Kalos\ Power\ Plant\ -\ XY\ Disc\ 2\ Music\ 25</ul>\r\n\ <ul>Boss\ Battle\:\ The\ Bitter\ Cold\ Stage\ 2\ (Pokemon\ Mystery\ Dungeon\ Gates\ to\ Infinity)</ul>\r\n\ <ul>Final\ Boss\:\ Battle\ (Ultra\ Necrozma)\ (Pokemon\ USUM)</ul>\r\n\ <ul>Talk\:\ An\ Eternal\ Prison\ (Pokemon\ XY)</ul>\r\n\ <ul>Final\ Panel\:\ Don't\ Ever\ Forget\ (Pokemon\ Mystery\ Dungeon\:\ Explorers\ of\ Sky)</ul>\r\n\ \r\n\ <h1>Sound\ Effect\ Citations\:</h1>\r\n\ <ul>All\ sound\ effects\ are\ taken\ from\ LuaSTG-EX-Plus.</ul>\r\n\ <ul>\ Except\ for\ 'lightSound',\ which\ is\ taken\ from\ public\ domain.</ul>\r\n\ \r\n\ <h1>Graphics\ Citations\:</h1>\r\n\ <ul>Farm\ Land\:\ https\://www.deviantart.com/the-mystery-of-doom/art/Vector-School-Grounds-294405567</ul>\r\n\ <ul>Track\ Field\:\ https\://www.vectorstock.com/royalty-free-vector/cartoon-running-track-stadium-vector-17932997</ul>\r\n\ <ul>Library\ Floor\:\ https\://www.freepik.com/free-photos-vectors/cartoon-floor</ul>\r\n\ <ul>Start\ World\:\ https\://www.pinterest.ca/pin/535154368199443510</ul>\r\n\ <ul>Little\ Pony\ Logo\:\ https\://www.dafont.com/forum/read/331756/my-little-pony</ul>\r\n\ <ul>Ponies\:\ https\://pony.town/</ul>\r\n\ <ul>Light\ Circle\:\ https\://www.pngegg.com/en/png-wrhcb</ul>\r\n\ <ul>Tree\:\ https\://www.vecteezy.com/png/13743345-pixel-art-tree-icon</ul>\r\n\ <ul>Portal\:\ https\://www.tukuppt.com/muban/yaxxwdkx.html</ul>\r\n\ <ul>Scroll\:\ https\://www.freepik.com/free-vector/realistic-open-parchment-scroll-transparent_39845337.htm\#query\=old%20scroll&position\=0&from_view\=keyword&track\=ais</ul>\r\n\ <ul>Evil\ Character\:\ https\://kiray96.artstation.com/projects/5801xJ</ul>\r\n\ <ul>Ball\:\ https\://es.pixilart.com/art/crystal-ball-a971851e516e3b3</ul>\r\n\ <ul>Next\ Buttom\:\ https\://www.flaticon.com/free-icon/next-button_3318722</ul>\r\n\ \r\n\ @author\ Molly\ Wu\ &\ Yawen\ &\ Xuanxi\r\n\ @version\ 6.9.2023\r\n
+comment1.params=
+comment1.target=void\ unMusic()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ music()
+comment3.params=
+comment3.target=StartWorld()
+comment3.text=\r\n\ Initializes\ the\ StartWorld,\ initialize\ music,\ background\ image,\ and\ add\ a\ fastest\ time\ if\ there\ is\ a\ save\ file.\r\n
+comment4.params=
+comment4.target=void\ started()
+comment4.text=\r\n\ Play\ music\ when\ started\r\n
+comment5.params=
+comment5.target=void\ stopped()
+comment5.text=\r\n\ Stop\ music\ when\ stopped.\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ The\ world\ only\ needs\ to\ determine\ of\ left\ or\ right\ (or\ space\ if\ at\ first\ panel)\ is\ clicked.\ If\ everything\ else\ is\ displayed,\ move\ to\ MainWorld.\r\n
+comment7.params=
+comment7.target=void\ moveWorld()
+comment7.text=\r\n\ Moving\ to\ MainWorld\ while\ performing\ initialization\ of\ variables.\r\n
+comment8.params=
+comment8.target=void\ moveLeft()
+comment9.params=
+comment9.target=void\ moveRight()
+numComments=10

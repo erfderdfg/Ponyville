@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EndWorld
+comment0.text=\r\n\ The\ EndWorld\ is\ the\ very\ last\ world\ that\ displays\ the\ result\ of\ the\ player's\ adventure.\r\n\ \r\n\ @author\ Yawen\ Zhang\r\n\ @version\ 0.1\r\n
+comment1.params=result
+comment1.target=EndWorld(boolean)
+comment1.text=\r\n\ Initializes\ the\ EndWorld\ according\ to\ result.\r\n\ \r\n\ @param\ result\ \ \ \ The\ result\ of\ the\ world,\ true\ \=\ good,\ false\ \=\ bad.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ When\ started,\ play\ music.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ When\ stopped,\ don't\ play\ music.\r\n
+comment4.params=
+comment4.target=void\ unMusic()
+comment4.text=\r\n\ Don't\ play\ music.\r\n
+comment5.params=
+comment5.target=void\ music()
+comment5.text=\r\n\ Play\ music.\r\n
+comment6.params=
+comment6.target=void\ setEnd()
+comment6.text=\r\n\ Sets\ the\ End\ variable\ (which\ is\ deprecated).\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bullet_turn
+comment0.text=\r\n\ Undirected\ bullet\ (goes\ in\ a\ straight\ line\ and\ will\ not\ automatically\ aim\ to\ target)\r\n\ However\ this\ bullet\ will\ turn\ every\ few\ whiles\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=facing\ x\ y\ flip
+comment1.target=Bullet_turn(int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ Banked_turn\ class\r\n\ \r\n\ @param\ facing\ This\ is\ the\ rotation\ of\ the\ Bullet_turn\ class\r\n\ @param\ x\ This\ is\ the\ x-coordnate\ of\ the\ object\ when\ generated\r\n\ @param\ y\ This\ is\ the\ y-coordnate\ of\ the\ object\ when\ generated\r\n\ @param\ flip\ This\ is\ the\ boolean\ determine\ if\ it\ is\ flip\ to\ the\ reverse\ direction\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ This\ will\ create\ a\ SideWorld\ object\ when\ the\ object\ is\ created\r\n\ \r\n\ @param\ w\ This\ is\ the\ world\ the\ object\ is\ about\ to\ enter\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ is\ the\ act\ method\ of\ the\ Bullet_turn\ class\r\n
+comment4.params=
+comment4.target=boolean\ isEdge()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ temp()
+numComments=6

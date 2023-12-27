@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShaderBox
+comment0.text=\r\n\ Shader\ box,\ the\ box\ that\ acts\ as\ a\ "cover"\ to\ cover\ up\ the\ real\ maze.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=xsz\ ysz
+comment1.target=ShaderBox(int,\ int)
+comment1.text=\r\n\ Initializes\ the\ ShaderBox\ object.\ This\ object\ shouldn't\ do\ anything\ other\ than\ staying\ there\ and\ change\ brightness\ when\ asked\ to.\r\n\ \r\n\ @param\ xsz\ \ \ The\ width\ of\ the\ box.\r\n\ @param\ ysz\ \ \ The\ height\ of\ the\ box.\r\n
+comment2.params=perc
+comment2.target=void\ iluminate(int)
+comment2.text=\r\n\ Iluminate\ the\ shader\ box\r\n\ \r\n\ @param\ perc\ \ The\ percentage\ of\ transparency\ of\ shaderBox.\r\n
+numComments=3

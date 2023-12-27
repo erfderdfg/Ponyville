@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Option
+comment0.text=\r\n\ This\ is\ the\ class\ that\ contains\ 'A,\ B,\ C,\ D'\ and\ 'CF'\ keys.\r\n\ \r\n\ @author\ George\ Lu\r\n\ @version\ 1.0\r\n
+comment1.params=gf\ gf1\ check
+comment1.target=Option(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage,\ boolean)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ class\ Option\r\n\r\n\ @param\ gf\ This\ will\ take\ in\ an\ image\r\n\ @param\ gf1\ This\ will\ take\ in\ another\ image\r\n\ @param\ check\ This\ will\ take\ in\ a\ boolean\ and\ determine\ type\ of\ button,\ if\ true,\ then\ it\ is\ a\ continue\ button,\ false\ will\ means\ it\ is\ a\ normal\ button\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ the\ act\ method\ of\ Option\ class\r\n
+comment3.params=
+comment3.target=boolean\ isClick()
+comment3.text=\r\n\ This\ is\ the\ method\ that\ will\ determine\ if\ the\ current\ button\ is\ being\ clicked\r\n\ \r\n\ @return\ boolean\ This\ boolean\ will\ determine\ if\ the\ button\ is\ being\ clicked\r\n
+comment4.params=x
+comment4.target=greenfoot.GreenfootImage\ getImage(boolean)
+comment4.text=\r\n\ This\ method\ will\ change\ the\ appearance\ of\ the\ button\r\n\ \r\n\ @param\ x\ This\ boolean\ will\ determine\ which\ image\ to\ return,\ true\ means\ return\ teh\ first\ one,\ false\ means\ return\ the\ second\ one\r\n
+comment5.params=
+comment5.target=void\ animation()
+numComments=6

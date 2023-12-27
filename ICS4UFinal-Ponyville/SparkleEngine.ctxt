@@ -1,0 +1,49 @@
+#BlueJ class context
+comment0.target=SparkleEngine
+comment0.text=\r\n\ SparkleEngine\ -\ Very\ portable\ &\ reusable\ engine\ that\ wrapps\ various\ functions.\r\n\ All\ static\ methods.\r\n\ Rooted\ from\ grade\ 11\ final\ project's\ engine,\ developed\ largely\ since\ then.\r\n\ Making\ the\ engine\ an\ actor\ to\ prevent\ repeatitively\ call\ dt\ \=\ new\ Date().\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 0.5\r\n
+comment1.params=img
+comment1.target=greenfoot.GreenfootImage\ greyIFy(greenfoot.GreenfootImage)
+comment1.text=\r\n\ convert\ the\ given\ image\ to\ greyscale\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @return\ GreenfootImage\ \ \ Greyscale\ image\r\n
+comment10.params=mass\ cof\ gravity
+comment10.target=double\ getFrict(double,\ double,\ double)
+comment10.text=\r\n\ <p>Get\ force\ of\ friction\ of\ object\ in\ N\r\n\ <p>Helpful\ in\ calculating\ the\ needed\ force\ to\ maintain\ velocity,\ etc.\r\n\ <p>Remember\:\ to\ maintain\ constant\ velocity\:\ cva\ \=\ getFrict()/mass\r\n\ <p>(cva\ \=\ acceleration\ to\ maintain\ constant\ velocity)\r\n\ <p>Only\ works\ if\ y\ axis\ has\ no\ force\ other\ than\ gravity\ and\ normal\ force.\r\n\ <p>If\ y\ axis\ has\ force\:\ real\ friction\ \=\ getFrict()\ +\ yForce*u\r\n\ \r\n\ @param\ mass\ \ The\ mass\ of\ the\ object\r\n\ @param\ cof\ \ \ The\ coefficient\ of\ friction\ of\ the\ surface\r\n\ @param\ gravity\ \ \ The\ gravity\ factor\r\n\ @return\ double\ \ \ The\ force\ of\ friction\ of\ the\ given\ object.\r\n
+comment11.params=vel\ accel\ mass\ cof\ gravity\ time
+comment11.target=double\ dvDueToFrict(double,\ double,\ double,\ double,\ double,\ double)
+comment11.text=\r\n\ <p>delta\ velocity\ due\ to\ friction\r\n\ <p>F\ \=\ m*a,\ Ff\ \=\ mass*gravity*u\ (mass*gravity)\ \=\ N,\ u\ \=\ kinetic\ friction\ coefficient\r\n\ usage\:\ spd\ \=\ spd\ -\ dvDueToFrict();\r\n\ \r\n\ @param\ vel\ \ \ Velocity\ of\ object\r\n\ @param\ accel\ Acceleration\ of\ object\r\n\ @param\ mass\ \ Mass\ of\ object\r\n\ @param\ cof\ \ \ Coeficcient\ of\ friction\ of\ the\ surface.\r\n\ @param\ gravity\ \ \ The\ gravity\ factor\r\n\ @param\ time\ \ Time\ of\ the\ motion.\r\n\ @return\ int\ \ The\ change\ in\ velocity\ of\ provided\ object\ in\ the\ given\ time\ period.\r\n
+comment12.params=font\ text
+comment12.target=int\ getStringWidth(greenfoot.Font,\ java.lang.String)
+comment12.text=\r\n\ Gets\ the\ width\ of\ a\ string\ based\ on\ the\ font.\r\n\ \r\n\ @param\ font\ \ The\ font\ used\ to\ display\ the\ string.\r\n\ @param\ text\ \ The\ string\ of\ text\ itself.\r\n\ @return\ int\ \ The\ width\ of\ the\ string\ if\ displayed\ in\ the\ choosen\ font.\r\n
+comment13.params=in\ f\ mxLength
+comment13.target=java.lang.String\ wordWrap(java.lang.String,\ greenfoot.Font,\ int)
+comment13.text=\r\n\ Takes\ in\ a\ string\ of\ words\ that\ needs\ to\ be\ alighned\ and\ automatically\ add\ '/n'\ to\ it.\r\n\ \r\n\ @param\ in\ \ \ \ The\ input\ string\r\n\ @param\ f\ \ \ \ \ The\ font\ of\ the\ string\ that\ you\ will\ use\ to\ display\r\n\ @param\ mxLength\ \ The\ maximum\ length\ that\ your\ string\ cannot\ exceed.\r\n\ @return\ String\ \ \ Returns\ the\ string,\ formatted\ so\ that\ it\ will\ continue\ on\ next\ line\ if\ exceeds\ mxLength.\r\n
+comment14.params=c\ f\ x\ y\ text\ in
+comment14.target=greenfoot.GreenfootImage\ drawLable(greenfoot.Color,\ greenfoot.Font,\ int,\ int,\ java.lang.String,\ greenfoot.GreenfootImage)
+comment14.text=\r\n\ Draws\ label\ on\ an\ GreenfootImage\r\n\ \r\n\ @param\ c\ \ \ \ \ The\ color\ of\ the\ lable\r\n\ @param\ f\ \ \ \ \ The\ font\ of\ the\ lable\r\n\ @param\ x\ \ \ \ \ The\ x\ position\ (relative\ to\ top\ left\ of\ the\ object)\ of\ the\ lable\r\n\ @param\ y\ \ \ \ \ The\ y\ position\ (relative\ to\ top\ left\ of\ the\ object)\ of\ the\ lable.\r\n\ @param\ text\ \ The\ text\ on\ the\ lable\r\n\ @return\ GreenfootImage\ \ \ Returns\ the\ image\ with\ lable\ drawn\ on\ it.\r\n
+comment15.params=from\ to
+comment15.target=int\ ManhattenDistance(int[],\ int[])
+comment15.text=\r\n\ Get\ the\ Manhatten\ Distance\ of\ two\ objects.\r\n\ \r\n\ @param\ fromX\ \ \ \ \ The\ X\ coordinate\ of\ source\ object\r\n\ @param\ fromY\ \ \ \ \ The\ Y\ coordinate\ of\ source\ object\r\n\ @param\ toX\ \ \ \ \ \ \ The\ X\ coordinate\ of\ target\ object\r\n\ @param\ toY\ \ \ \ \ \ \ The\ Y\ coordinate\ of\ target\ object\r\n\ @return\ int\ \ \ \ \ \ Returns\ the\ manhatten\ distance\ between\ from\ object\ and\ to\ object.\r\n
+comment2.params=tot\ rem\ len\ hig\ before\ after
+comment2.target=greenfoot.GreenfootImage\ drawProgressBar(int,\ int,\ int,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment2.text=\r\n\ Draw\ a\ progress\ bar\ given\ various\ parameters.\r\n\ \r\n\ @param\ tot\ \ \ Total\ value\ of\ the\ progress\ bar\ (max\ value)\r\n\ @param\ rem\ \ \ Remaining\ value\ of\ the\ progress\ bar\ (current\ value)\r\n\ @param\ len\ \ \ Length\ of\ progress\ bar\ in\ pixels\r\n\ @param\ hig\ \ \ Height\ of\ progress\ bar\ in\ pixels\r\n\ @param\ before\ \ \ \ Base\ color\ of\ progress\ bar\r\n\ @param\ after\ Color\ of\ "current\ value".\r\n\ @return\ \ GreenfootImage\ \ Returns\ the\ progress\ bar\ as\ an\ GreenfootImage.\r\n
+comment3.params=img\ perc
+comment3.target=greenfoot.GreenfootImage\ setTransparency(greenfoot.GreenfootImage,\ int)
+comment3.text=\r\n\ Set\ the\ transparency\ of\ an\ image\ according\ to\ brt.\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @param\ perc\ \ The\ percentage\ of\ transparency,\ ranges\ from\ [0\ to\ 100],\ 0\ \=\ fully\ not\ transparent.\r\n\ @return\ GreenfootImage\ \ \ The\ processed\ input\ image\ that\ is\ either\ shaded\ or\ brightened\ by\ brt.\r\n
+comment4.params=img\ brt
+comment4.target=greenfoot.GreenfootImage\ setBrightness(greenfoot.GreenfootImage,\ int)
+comment4.text=\r\n\ Set\ the\ brightness\ of\ an\ image\ according\ to\ brt.\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @param\ brt\ \ \ The\ brightness\ factor.\ less\ than\ 50\ means\ shade,\ more\ than\ 50\ means\ brighten.\r\n\ @return\ GreenfootImage\ \ \ The\ processed\ input\ image\ that\ is\ either\ shaded\ or\ brightened\ by\ brt.\r\n
+comment5.params=img\ perc
+comment5.target=greenfoot.GreenfootImage\ turnRed(greenfoot.GreenfootImage,\ int)
+comment5.text=\r\n\ Turns\ an\ image\ to\ red\ by\ perc\ percent.\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @param\ perc\ \ The\ percentage\ of\ turning\ red\ ranging\ from\ [0\ to\ 100],\ 100\ \=\ fully\ red.\r\n\ @return\ GreenfootImage\ \ \ The\ processed\ input\ image\ that\ is\ turned\ red\ by\ perc\ percent.\r\n
+comment6.params=img\ perc
+comment6.target=greenfoot.GreenfootImage\ turnBlue(greenfoot.GreenfootImage,\ int)
+comment6.text=\r\n\ Turns\ an\ image\ to\ blue\ by\ perc\ percent.\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @param\ perc\ \ The\ percentage\ of\ turning\ blue\ ranging\ from\ [0\ to\ 100],\ 100\ \=\ fully\ blue.\r\n\ @return\ GreenfootImage\ \ \ The\ processed\ input\ image\ that\ is\ turned\ blue\ by\ perc\ percent.\r\n
+comment7.params=img\ perc
+comment7.target=greenfoot.GreenfootImage\ revColor(greenfoot.GreenfootImage,\ int)
+comment7.text=\r\n\ Reverses\ the\ color\ of\ a\ given\ image\ by\ a\ certain\ percentage.\r\n\ \r\n\ @param\ img\ \ \ The\ given\ image\r\n\ @param\ perc\ \ The\ percentage\ of\ inversion\ ranging\ from\ [0\ to\ 100],\ 100\ \=\ fully\ reverse.\r\n\ @return\ GreenfootImage\ \ \ The\ processed\ input\ image\ that\ is\ reversed\ by\ perc\ percent.\r\n
+comment8.params=shadeFactor\ img
+comment8.target=greenfoot.GreenfootImage\ shade(double,\ greenfoot.GreenfootImage)
+comment8.text=\r\n\ <p>Shades\ image\ (makes\ more\ black)\ according\ to\ shadeFactor.\r\n\ <p>Usage\:\ background\ \=\ new\ GreenfootImage(SparkleEngine.shade(0.5,\ background));\r\n\ \r\n\ @param\ shadeFactor\ \ The\ factor\ of\ shade,\ ranges\ from\ [0\ to\ 1.0].\ 1.0\ \=\ completely\ black.\r\n\ @param\ img\ \ \ \ \ \ \ \ \ \ \ The\ input\ image\r\n\ @return\ GreenfootImage\ \ \ The\ input\ image,\ shaded\ by\ factor\ of\ brighten.\r\n
+comment9.params=brightFactor\ img
+comment9.target=greenfoot.GreenfootImage\ brighten(double,\ greenfoot.GreenfootImage)
+comment9.text=\r\n\ <p>Brightens\ image\ (makes\ more\ white)\ according\ to\ brightFactor.\r\n\ <p>Usage\:\ background\ \=\ new\ GreenfootImage(SparkleEngine.brighten(0.5,\ background));\r\n\ \r\n\ @param\ brightFactor\ \ The\ factor\ of\ brighten,\ ranges\ from\ [0\ to\ 1.0].\ 1.0\ \=\ completely\ white.\r\n\ @param\ img\ \ \ \ \ \ \ \ \ \ \ The\ input\ image\r\n\ @return\ GreenfootImage\ \ \ The\ input\ image,\ brightened\ by\ factor\ of\ brighten.\r\n
+numComments=16

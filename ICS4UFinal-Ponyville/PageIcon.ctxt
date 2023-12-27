@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PageIcon
+comment0.text=\r\n\ Essentially\ something\ that\ displays\ left\ and\ right\ keys\ on\ starting\ world.\r\n\ \r\n\ @author\ Yawen\ &&\ Ming\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=PageIcon()
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ PageIcon\ class\r\n
+numComments=2

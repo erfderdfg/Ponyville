@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=RemovableBullet
+comment0.text=\r\n\ Bullets\ that\ should\ be\ removed\ once\ the\ turn\ is\ finished.\r\n\ This\ class\ is\ built\ for\ the\ ease\ of\ erasing\ bullets\ using\ arrayList,\ so\ it\ should\ be\ empty.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+numComments=1
