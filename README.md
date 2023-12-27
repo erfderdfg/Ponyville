@@ -21,7 +21,7 @@ Ponyville is an adventure game where the protagonist, Flurry Heart, embarks on a
 Our project was developed using the Greenfoot game engine, File IO system and Java. Our team distributed tasks among different classes and collaborated via Github.
 
 The process involved:
-Implementing a dynamic block matrix with each block glowing upon proximity to the main character
+Implementing a dynamic grad base game environment with each grid glowing upon proximity to the main character
 Exploring various path-finding algorithms, including depth-first search (DFS) and breath-first search (BFS)
 Creating a File IO system to lower the complexity of extracting the plotline
 Utilizing inheritance and abstract classes to minimize code redundancy
