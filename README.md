@@ -8,7 +8,7 @@
 
 Project Statistics are included in the actual code comment section
 
-## Inspiration🌸
+## Inspiration🚀
 
 Ponyville is an adventure game where the protagonist, Flurry Heart, embarks on a quest to rescue Ponyville from encroaching darkness. The player navigates through three levels, purifying ponies that have already been enveloped by darkness and combating evil spirits.
 
@@ -30,12 +30,12 @@ Utilizing inheritance and abstract classes to minimize code redundancy
 
 A significant challenge was developing an efficient path-finding algorithm for the evil spirits to track the main character
 
-## Accomplishments that we're proud of👓
+## Accomplishments that we're proud of🍦
 
 Successfully overcoming the challenge of path-finding algorithms by using a breadth-first search algorithm to optimize the movement of evil spirits toward the main character
 Integration of a File IO engine that imports an external file containing all the texts that follow a writing convention to an ArrayList in the game
 
 
-## What we learned🎈
+## What we learned🌸
 
 Through developing Ponyville, we learned about different path-finding algorithms, encapsulation, code efficiency practices, and collaboration skills.
